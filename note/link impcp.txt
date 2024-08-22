@@ -1,0 +1,17 @@
+algo cp:
+https://cp-algorithms.com/
+
+
+Cp :
+https://cses.fi/problemset/
+
+strivr cp sheet:
+https://takeuforward.org/interview-experience/strivers-cp-sheet/?utm_source=youtube&utm_medium=striver&utm_campaign=yt_video
+
+
+
+
+ios::sync_with_stdio(0);
+cin.tie(0);
+
+

@@ -1,0 +1,1 @@
+{"name":"Local: prac","url":"c:\\Users\\katha\\OneDrive\\Desktop\\Codeforces\\CP Book\\prac.cpp","tests":[{"id":1722441063138,"input":"3\n3\n1 1 1\n2\n1 2\n3\n1 0 0","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\katha\\OneDrive\\Desktop\\Codeforces\\CP Book\\prac.cpp","group":"local","local":true}
